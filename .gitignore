@@ -1,0 +1,65 @@
+#   ____ ___ _____ ___ ____ _   _  ___  ____  _____
+#  / ___|_ _|_   _|_ _/ ___| \ | |/ _ \|  _ \| ____|
+# | |  _ | |  | |  | | |  _|  \| | | | | |_) |  _|
+# | |_| || |  | |  | | |_| | |\  | |_| |  _ <| |___
+#  \____|___| |_| |___\____|_| \_|\___/|_| \_\_____|
+# 
+# https://github.com/chrisjameschamp
+
+
+# Could just force-add these files and leave this as '*', but this way I have a
+# nice explicit list for documentation's sake.
+
+# Ignore everything by default.
+*
+
+!.config/
+
+# Alacritty
+!.config/alacritty/
+!.config/alacritty/*
+
+# Cava
+!.config/cava/
+!.config/cava/*
+
+# Dunst
+!.config/dunst/
+!.config/dunst/*
+
+# Font Config
+!.config/fontconfig/
+!.config/fontconfig/*
+
+# Neofetch
+!.config/neofetch/
+!.config/neofetch/*
+
+# QTile
+!.config/qtile/
+!.config/qtile/*
+.config/qtile/__pycache__/
+
+# Ranger
+!.config/ranger/
+!.config/ranger/*
+!.config/ranger/colorschemes/
+!.config/ranger/colorschemes/*
+.config/ranger/colorschems/__pycache__/
+!.config/ranger/plugins/
+!.config/ranger/plugins/*
+.config/ranger/plugins/__pycache__/
+
+# Rofi
+!.config/rofi/
+!.config/rofi/*
+
+# Spotify-Tui
+!.config/spotify-tui/
+!.config/spotify-tui/config.yml
+
+# ZSH Profile
+!.zshrc
+
+# Gitignore
+!.gitignore
