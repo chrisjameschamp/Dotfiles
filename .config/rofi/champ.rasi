@@ -1,0 +1,93 @@
+/******************************************************************************
+ * ROFI Color theme
+ * User: Champ - https://github.com/chrisjameschamp
+ * Copyright: Chris James Champeau
+ ******************************************************************************/
+
+window {
+	width:            40%;
+	height:           25%;
+    padding:          8;
+    text-color:       #f8f8f8;
+    background-color: #171717cc;
+    border:           1;
+    border-color:     #171717;
+}
+
+prompt {
+    padding:          4;
+	text-color:       #0fdcb6;
+	background-color: #17171700;
+}
+
+entry {
+    padding:          4;
+    text-color:       #f8f8f8;
+    background-color: #17171700;
+}
+
+inputbar {
+	children: 		  [ prompt, entry ];
+    padding:          4;
+	border:           0 0 1;
+    text-color:       #c1c1c1;
+    background-color: #00ffcc00;
+	border-color:     #00000000;
+}
+
+listview {
+    columns:          2;
+    padding:          4;
+    cycle:            false;
+    dynamic:          true;
+    layout:           vertical;
+    background-color: #17171700;
+}
+
+mainbox {
+    children:         [ inputbar, listview ];
+    background-color: #17171700;
+}
+
+element {
+    padding:          4;
+    text-color:       #c1c1c1;
+    background-color: #17171700;
+}
+
+element-icon {
+	padding:          0 4 0;
+    text-color:       inherit;
+    background-color: inherit;
+}
+
+element-text {
+    text-color:       inherit;
+    background-color: inherit;
+}
+
+element normal.urgent, element alternate.urgent {
+    text-color:       #c1c1c1;
+    background-color: #ee5555;
+}
+
+element normal.active, element alternate.active {
+    text-color:       #c1c1c1;
+    background-color: #212121;
+}
+
+element selected {
+	text-color:       #ffa800;
+	background-color: #17171700;
+}
+
+element selected.urgent {
+	text-color:       #212121;
+	background-color: #ee5555;
+}
+
+element selected.active {
+	text-color:       #c1c1c1;
+	background-color: #212121;
+}
+// vim:ft=css
