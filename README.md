@@ -24,7 +24,7 @@
 | Status bar		| [qtile](https://wiki.archlinux.org/title/Qtile), [Polybar](https://github.com/polybar/polybar)											|
 | Login Manager		| [ly](https://github.com/fairyglade/ly)								|
 | Terminal emulator	| [Alacritty](https://wiki.archlinux.org/title/Alacritty)										|
-| Shell			| [Zsh](https://zsh.sourceforge.io/)													|
+| Shell			| [Zsh](https://zsh.sourceforge.io/), [Powerline 10k](https://github.com/romkatv/powerlevel10k)													|
 | Browsers		| [Chrome](https://www.google.com/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/)						|
 | Chat			| [Discord](https://discord.com/)								|
 | IDE'S			| [VS Code](https://wiki.archlinux.org/title/Visual_Studio_Code), [Nano](https://www.nano-editor.org/)			|
