@@ -10,7 +10,7 @@ export XDG_CONFIG_HOME="$HOME/.config"
 export PATH="$HOME/.local/bin:$PATH"
 
 # start the compositor (transparency, fade, shadows, blur, etc.)
-picom -b &
+picom --experimental-backends -b &
 
 # start the network tray application
 nm-applet &
