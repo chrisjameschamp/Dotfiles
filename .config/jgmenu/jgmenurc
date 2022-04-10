@@ -44,7 +44,7 @@ item_border          = 0
 
 sep_height           = 5
 
-font                 = DejaVu Sans Book 12px
+font                 = UbuntuMono Nerd Font 16px
 font_fallback        = xtg
 icon_size            = 24
 icon_text_spacing    = 10
