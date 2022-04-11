@@ -5,7 +5,7 @@
   ![GitHub documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=flat-square)
   ![GitHub repo size](https://img.shields.io/github/repo-size/chrisjameschamp/Dotfiles?style=flat-square)
   ![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/Neon-VS-Code-Theme?style=flat-square)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/Dotfiles?style=flat-square)
 
 </div>
 <div align="center">
