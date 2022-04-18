@@ -4,6 +4,8 @@
   
   ![GitHub documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=flat-square)
   ![GitHub repo size](https://img.shields.io/github/repo-size/chrisjameschamp/Dotfiles?style=flat-square)
+  ![Github repo languages](https://img.shields.io/github/languages/count/chrisjameschamp/Dotfiles?style=flat-square)
+  ![Github repo top lang](https://img.shields.io/github/languages/top/chrisjameschamp/Dotfiles?style=flat-square)
   ![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)
   ![GitHub last commit](https://img.shields.io/github/last-commit/chrisjameschamp/Dotfiles?style=flat-square)
 
