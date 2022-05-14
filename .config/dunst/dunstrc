@@ -74,6 +74,9 @@
     # Defines color of the frame around the notification window.
     frame_color = "#171717"
 
+    # Highlight color
+    highlight = "#ff2491"
+
     # Define a color for the separator.
     # possible values are:
     #  * auto: dunst tries to find a color fitting to the background;
